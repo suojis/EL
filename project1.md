@@ -8,4 +8,4 @@
 
 -   **Certbot** : An open-source tool for automating the process of obtaining and renewing SSL/TLS certificates from Let’s Encrypt.
 
-![1](img/tv%205%20and%204.jpg)
+
